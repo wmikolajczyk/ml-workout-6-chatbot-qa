@@ -1,0 +1,11 @@
+transformers
+polars
+langchain
+scikit-learn
+sentence_transformers
+openai
+faiss-cpu
+gradio
+einops
+accelerate
+ipython
